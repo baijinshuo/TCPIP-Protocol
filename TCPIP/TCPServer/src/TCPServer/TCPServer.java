@@ -6,10 +6,6 @@ import java.io.InputStreamReader;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-/**
- * @author Jinshuo Bai
- *
- */
 public class TCPServer {
 
 	/**

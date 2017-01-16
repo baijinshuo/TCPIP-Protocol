@@ -1,10 +1,6 @@
 package TCPClient;
 import java.net.*;
 
-/**
- * @author Jinshuo Bai
- *
- */
 public class Address {
 	
 	String localip;

@@ -21,10 +21,6 @@ import java.awt.event.ActionEvent;
 
 import javax.swing.JButton;
 
-/**
- * @author Jinshuo Bai
- *
- */
 public class TCPClient extends JFrame {
 
 	private JPanel contentPane;
